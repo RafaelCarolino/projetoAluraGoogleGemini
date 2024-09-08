@@ -1,0 +1,2 @@
+# projetoAluraGoogleGemini
+Projeto Alura  GoogleGemine
